@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">
-  $\color{#38BDF8}{\textsf{✧༺✦✮✦༻∞ Brushlue!}}$
+  $\color{#38BDF8}{\textsf{welcome!}}$
 </h2>
 
 <p align="center">
@@ -37,6 +37,25 @@ Welcome to my GitHub profile. I enjoy creating clean projects, experimenting wit
 * **Workflow:** Focused on readable code, lightweight design, and practical documentation.
 * **Outside of Code:** Music, gaming, design inspiration, and exploring creative communities.
 
----
+<div align="center">
+  <img src="sparkles6.gif" alt="Blue Header Banner" width="680" />
+</div>
+
+<div align="center">
+  <img src="719c9845.gif" alt="Blue Header Banner" width="410" />
+</div>
+
+> [!NOTE]
+> Currently working on new character designs and web pages.
+
+<details>
+<summary><b>Click to open a secret message</b></summary>
+<br>
+Thanks for checking out my profile. Stay creative and have fun building things!
+</details>
+
+<p align="center">
+  <img src="windows.gif" alt="Profile Views" />
+</p>
 
 
