@@ -23,7 +23,6 @@ Welcome to my GitHub profile. I enjoy creating clean projects, experimenting wit
 ### $\color{#60A5FA}{\textsf{02 \quad Featured Projects}}$
 
 | Index | Project | Description
-| :--- | :--- | :--- | :--- |
 | **01** | **Project Alpha** | A brief, clear summary of what this repository does and why it is useful.
 | **02** | **Project Beta** | A tool, script, or web app built to solve an everyday problem.
 | **03** | **Project Gamma** | An experimental sandbox or guide documenting a specific topic.
